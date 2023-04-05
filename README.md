@@ -1,4 +1,6 @@
 # Focal
 Time management software for our modelling and software module
 
-I don't know how to use github :)
+This is a web-based program which helps you track how you spend your day, so that YOU can seize it as well as possible!
+
+Github slay
